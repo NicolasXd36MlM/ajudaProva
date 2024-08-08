@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3331015670594231670}
   - component: {fileID: 1273861587971272516}
   m_Layer: 0
-  m_Name: moeda
+  m_Name: moedaPrefah
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
